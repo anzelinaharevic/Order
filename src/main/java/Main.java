@@ -1,4 +1,4 @@
-package ...;
+package java;
 
 import java.util.Scanner;
 
@@ -16,7 +16,7 @@ public class orderSys {
         Integer quantity =sc nexLine();
 
     }
-    orderId n = new orderId()
+    orderId n = new orderId();
     n.customerName(customerName);
     n.productName(productName);
     n.quantity(quantity);

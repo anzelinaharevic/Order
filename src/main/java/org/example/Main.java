@@ -14,5 +14,6 @@ public class orderSys {
         String productName =sc nexLine();
         System.out.println("please enter quantity of product");
         Integer quantity =sc nexLine();
+
     }
 }
